@@ -7,7 +7,7 @@
 
 ## 🌐 Live Site
 
-### → [**masterai-arielshemesh1999s-projects.vercel.app**](https://masterai-arielshemesh1999s-projects.vercel.app/)
+### → [**masterai-mu.vercel.app**](https://masterai-mu.vercel.app/)
 
 ---
 
