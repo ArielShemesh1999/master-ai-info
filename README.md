@@ -4,6 +4,10 @@
 
 **Live:** [masterai-mu.vercel.app](https://masterai-mu.vercel.app)
 
+<p align="center">
+  <img src="assets/preview.webp" alt="master-ai — the live site" width="100%">
+</p>
+
 Three pages carry the funnel: home, a 6-week syllabus (`course.html`), and three pricing tiers (`pricing.html`). No build step, no framework, no backend. The source repo is private.
 
 ## Shipping three self-contained HTML files instead of a framework
